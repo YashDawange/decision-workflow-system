@@ -1,0 +1,16 @@
+{
+ "rules":[
+  {
+   "condition":"credit_score < 600",
+   "decision":"reject"
+  },
+  {
+   "condition":"income > 50000 and credit_score > 700",
+   "decision":"approve"
+  },
+  {
+   "condition":"default",
+   "decision":"manual_review"
+  }
+ ]
+}
