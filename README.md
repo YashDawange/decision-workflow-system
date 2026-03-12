@@ -135,12 +135,14 @@ This interface allows you to:
 ---
 
 <img width="1918" height="938" alt="Screenshot 2026-03-12 170831" src="https://github.com/user-attachments/assets/c8bc11d6-e612-4873-a704-59ce294619af" />
-<br>
+<br><br>
 
 <img width="1642" height="535" alt="Screenshot 2026-03-12 170252" src="https://github.com/user-attachments/assets/81ca5e86-0bce-46b5-8f4c-01dd71265a6b" />
-<br>
+
+<br><br>
 <img width="1657" height="407" alt="Screenshot 2026-03-12 170318" src="https://github.com/user-attachments/assets/b1382529-f0d5-4562-b756-a2ef0a82f480" />
-<br>
+
+<br><br>
 <img width="1664" height="533" alt="Screenshot 2026-03-12 170344" src="https://github.com/user-attachments/assets/8f9f579f-8f30-4739-8633-171b7c2c3ee5" />
 
 # API Endpoints
@@ -254,6 +256,7 @@ Returns:
 ```
 
 ---
+
 
 
 
